@@ -11,6 +11,6 @@ jobs:
       - name: "Primeira ação"
         run: echo "hello World !!!"
       - name: "Segunda ação"
-        run: 
+        run: |
           echo "Primeiro workflow criado"
           echo "Parabéns!"
